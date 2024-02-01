@@ -4,15 +4,13 @@
 <br><br>
 <img align="right" alt="Coding" width="350" src="https://www.manitobaenglishacademy.com/wp-content/uploads/2020/04/skatter-programmer.gif">
 
-- 🔭 I’m currently working on - **Chess with C++**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🔭 I’m currently working on - **ChatPal**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aadhar-jain](https://github.com/aadhar-jain)
 
-- 💬 Ask me about **C++, Python, DBMS etc.**
+- 💬 Ask me about **C++, DSA, Web dev.**
 
 - 📫 How to reach me **aadharjain2688@gmail.com**
 
