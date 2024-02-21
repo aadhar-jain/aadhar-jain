@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadhar</h1>
-<h3 align="center">A passionate C++ developer from India</h3>
+<h3 align="center">I learn TECH and I craft TECH</h3>
 
 <br><br>
 <img align="right" alt="Coding" width="350" src="https://www.manitobaenglishacademy.com/wp-content/uploads/2020/04/skatter-programmer.gif">
